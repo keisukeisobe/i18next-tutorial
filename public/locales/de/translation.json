@@ -1,0 +1,9 @@
+{
+  "description": {
+    "part1": "Ändere <1>src/App.js</1> und speichere um neu zu laden.",
+    "part2": "Lerne React"
+  },
+  "counter": "Die Sprache wurde erst ein mal gewechselt",
+  "counter_plural": "Die Sprache wurde {{count}} mal gewechselt"
+}
+
